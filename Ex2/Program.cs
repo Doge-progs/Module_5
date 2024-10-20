@@ -41,6 +41,7 @@ namespace Ex2
             Console.WriteLine();
             Console.WriteLine("Максимальное значение {0}", array_max);
             Console.WriteLine("Минимальное значение {0}", array_min);
+            Console.WriteLine("Сумма большего и меньшего значения из массива {0}", array_max + array_min);
             Console.ReadKey();
         }
     }
